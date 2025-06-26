@@ -35,10 +35,10 @@ The full thesis report is available in this repository:
 
 ## 📊 Results Summary
 
-| Model        | Success Rate (SR) | Progress (%) | SPL | PPL |
-|--------------|-------------------|---------------|-----|-----|
-| ProjNeuralMap | 31%              | 41%          | —   | —   |
-| **TANGO (Ours)** | **57%**        | **65%**      | ↑   | ↑   |
+| Model        | Success Rate (SR) | Progress (%) |
+|--------------|-------------------|---------------
+| ProjNeuralMap | 31%              | 41%          
+| **TANGO (Ours)** | **57%**        | **65%**      
 
 > Note: Full experimental setup, metrics, and analysis are in the thesis.
 
