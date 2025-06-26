@@ -40,6 +40,15 @@ The full thesis report is available in this repository:
 | ProjNeuralMap | 31%              | 41%          
 | **TANGO (Ours)** | **57%**        | **65%**      
 
+## 📊 Highlights
+
+| Detector | Memory | Success (%) | Progress (%) | SPL | PPL |
+|----------|--------|-------------|----------------|-----|-----|
+| YOLOv8x  | ✅     | 52.6 (+28%) | 70 (+27%) | 24 (+14%) | 31 (+11%) |
+| Owl-ViT2 | ✅     | 24           | 43             | 10  | 19  |
+
+Compared to MOPA and ProjNeuralMap, our modular method outperforms all previous baselines in success and efficiency, demonstrating the power of modular LLM-guided reasoning with upgraded vision.
+
 > Note: Full experimental setup, metrics, and analysis are in the thesis.
 
 ## 👨‍🏫 Supervisor
